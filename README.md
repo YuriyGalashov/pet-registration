@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Pet Registration
+## Application That Registers Pets
 
-*Default Structure for A Basic Project*
+*Default Structure for A Pet registration*
 
 **Java 8**
 
